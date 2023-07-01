@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-ArrayofObject/static/css/main.073c9b0a.css",
+    "main.js": "/react-ArrayofObject/static/js/main.dfef5c4e.js",
+    "index.html": "/react-ArrayofObject/index.html",
+    "main.073c9b0a.css.map": "/react-ArrayofObject/static/css/main.073c9b0a.css.map",
+    "main.dfef5c4e.js.map": "/react-ArrayofObject/static/js/main.dfef5c4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.dfef5c4e.js"
+  ]
+}
